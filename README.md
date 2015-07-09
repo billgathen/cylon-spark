@@ -91,7 +91,7 @@ Cylon.robot({
 
 ## How to Connect
 
-The setup process for the Spark core is fully explained by [their docs](http://docs.spark.io/connect/), and requires only an active internet connection with a WiFi access point.
+The setup process for the Spark core is fully explained by [their docs](http://docs.particle.io/core/connect/), and requires only an active internet connection with a WiFi access point.
 
 Once your Spark is connected, you can get the `accessToken` and `deviceId` necessary to communicate with it from Cylon.
 
